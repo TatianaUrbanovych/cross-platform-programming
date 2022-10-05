@@ -1,0 +1,21 @@
+﻿<Window x:Class="SignIn.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SignIn"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="SignIn" Content="Sign In" HorizontalAlignment="Center" Margin="0,238,0,0" VerticalAlignment="Top" Height="46" Width="244" Click="Button_Click" BorderBrush="#FF6098D1" FontWeight="Bold" Background="#FF58AAE0">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Content="E-mail" Height="30" Margin="154,87,0,0" VerticalAlignment="Top" Width="175" HorizontalAlignment="Left"/>
+        <TextBox x:Name="Email" HorizontalAlignment="Left" Height="31" Margin="154,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="175"/>
+        <Label Content="Password" HorizontalAlignment="Left" Height="30" Margin="471,87,0,0" VerticalAlignment="Top" Width="175"/>
+        <PasswordBox x:Name="Password" HorizontalAlignment="Left" Height="31" Margin="471,136,0,0" VerticalAlignment="Top" Width="175"/>
+
+    </Grid>
+</Window>
