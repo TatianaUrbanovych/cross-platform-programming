@@ -21,9 +21,9 @@ namespace SignIn
         //public static string TestDB = "Admin";
         public static Dictionary<string, string> TestDB = new Dictionary<string, string>()
             {
-                { "admin@admin", "admin"},
                 { "user1@ukr.net", "user1"},
-                { "user2@gmail.com", "user2"}
+                { "user2@gmail.com", "user2"},
+                { "user3@knute.edu.ua", "user3"}
             };
     }
     /// <summary>
@@ -39,13 +39,16 @@ namespace SignIn
         {
             if (!string.IsNullOrWhiteSpace(Email.Text) && !string.IsNullOrWhiteSpace(Password.Password))
             { 
-                    if (DB.TestDB.ContainsKey(Email.Text) && DB.TestDB.ContainsValue(Password.Password))
-                    {
-                        MessageBox.Show("Welcome!");
-                    }
-                    else {
-                        MessageBox.Show("Invalid credentials!");
-                    }
+                if (Email.Text == "admin@admin" && Password.Password == "admin") { 
+                    MessageBox.Show("You've autorised as an admin. Welcome!");
+                } 
+                else if (DB.TestDB.ContainsKey(Email.Text) && DB.TestDB.ContainsValue(Password.Password))
+                {
+                    MessageBox.Show("You've autorised as a user. Welcome!");
+                }
+                else {
+                    MessageBox.Show("Invalid credentials!");
+                }
                 Email.Clear();
                 Password.Clear();
             }
