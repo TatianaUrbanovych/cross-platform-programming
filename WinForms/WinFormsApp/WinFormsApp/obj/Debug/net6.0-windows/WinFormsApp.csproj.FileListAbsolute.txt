@@ -1,0 +1,17 @@
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.exe
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.deps.json
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.runtimeconfig.json
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.dll
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.pdb
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.Form1.resources
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.GenerateResource.cache
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.dll
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\refint\WinFormsApp.dll
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.pdb
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\Documents\Study\КросПлат\ЛР3\WinForms\WinFormsApp\WinFormsApp\obj\Debug\net6.0-windows\ref\WinFormsApp.dll
